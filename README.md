@@ -9,3 +9,5 @@ Meu nome é Kevin
 ### Você pode entrar em contato comigo 📫
 
 00001105601626sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/6HdySNL-OGEAAAAC/peace-out-peace-sign.gif)
