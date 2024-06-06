@@ -1,3 +1,7 @@
-### Bem-Vindos ao Meu Perfil ###
+### Bem-Vindos ao meu perfil ###
 
-Olá 👋
+Meu nome é (seu nome)
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
